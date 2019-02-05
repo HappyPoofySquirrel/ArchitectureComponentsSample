@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="title_hint">Title</string>
+    <string name="due_on_hint">Due on</string>
+    <string name="task_hint">Task</string>
+    <string name="save_toolbar_button">save</string>
+    <string name="remove_toolbar_button">Remove</string>
+    <string name="edit_toolbar_button">edit</string>
+</resources>
